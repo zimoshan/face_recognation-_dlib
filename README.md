@@ -1,0 +1,2 @@
+# face_recognation-_dlib
+本程序使用python语言调用OpenCV和Dlib库完成人脸识别，使用WxPython完成了界面设计
