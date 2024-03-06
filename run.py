@@ -1,18 +1,18 @@
+import _thread
+import io
+import os
+import sqlite3
+import threading
+import zlib
+
+import cv2
+import dlib
+import imutils
+import numpy as np
+import wx
+import wx.grid
 from PIL import Image, ImageDraw, ImageFont
 from skimage import io as iio
-import numpy as np
-import threading
-import imutils
-import _thread
-import wx.grid
-import sqlite3
-import cv2
-import zlib
-import dlib
-import wx
-import os
-import io
-
 
 # ----------------------------------------------------------------------------------------------------------------------
 
